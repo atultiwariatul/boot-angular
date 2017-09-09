@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boot-angular.iml" filepath="$PROJECT_DIR$/boot-angular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boot-angular_main.iml" filepath="$PROJECT_DIR$/.idea/modules/boot-angular_main.iml" group="boot-angular" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/boot-angular_test.iml" filepath="$PROJECT_DIR$/.idea/modules/boot-angular_test.iml" group="boot-angular" />
+    </modules>
+  </component>
+</project>
